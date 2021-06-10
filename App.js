@@ -5,11 +5,6 @@ import {
   TouchableOpacity,
   Text,
   View,
-  Button,
-  TextInput,
-  ScrollView,
-  FlatList,
-  Pressable,
 } from "react-native";
 
 import tailwind from "tailwind-rn";
